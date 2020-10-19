@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/NodeRich/NodeJs-crash/issues"
   },
-  "homepage": "https://github.com/NodeRich/NodeJs-crash#readme"
+  "homepage": "https://github.com/NodeRich/NodeJs-crash#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
 }
