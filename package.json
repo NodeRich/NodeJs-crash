@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crash",
+  "version": "1.0.0",
+  "description": "Node crash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeRich/NodeJs-crash.git"
+  },
+  "author": "Noderich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeRich/NodeJs-crash/issues"
+  },
+  "homepage": "https://github.com/NodeRich/NodeJs-crash#readme"
+}
